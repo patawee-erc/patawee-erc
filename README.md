@@ -15,6 +15,9 @@ Network & Security Management
 
 Development, Automation & Asset Management
 - Developed and deployed lightweight web applications using HTML, CSS, and JavaScript to streamline internal workflows, data filtering, and office administrative tasks.
+- Built and integrated cloud-based backend solutions using Google Firebase for database management, user authentication, and secure data storage in web apps.
+- Developed automation workflows and custom internal tools using Google Apps Script to extend Google Workspace capabilities and enhance productivity.
+- Leveraged Generative AI workflows using Stable Diffusion and ComfyUI to automate and accelerate custom image generation, asset creation, and design prototyping.
 - Integrated AI technologies and automation solutions (such as OCR capabilities and smart data processing) to improve operational efficiency and reduce manual tasks.
 - Handled IT Asset Management & Procurement, including inventory tracking, evaluating hardware/software upgrades, and coordinating with external vendors for maintenance and repairs.
 
@@ -29,7 +32,7 @@ Multimedia, Live Streaming & Video Production
 🛠 Technical Skills & Tools
 
 Software Development & AI Integration
--  Languages & Web: JavaScript, HTML, CSS, Web Application Development, Frontend UI Design
+-  Languages & Web: JavaScript, HTML, CSS, Web Application Development, Frontend UI Design, Google Apps Script, Google Firebase
 -  Generative AI & Automation: Stable Diffusion (Automatic1111 / Forge), ComfyUI (Node-based Workflows), ControlNet, LoRA Training, Prompt Engineering, OCR Technologies, AI Integration, Automation Tools
 
 IT Infrastructure & Network Security
