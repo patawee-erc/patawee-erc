@@ -25,7 +25,7 @@ Multimedia, Live Streaming & Video Production
 - Designed professional graphic assets and infographics for internal communications and digital media, transforming complex regulatory data into clear, engaging visuals.
 - Utilized node-based AI tools (ComfyUI) and Stable Diffusion models to generate high-quality visual assets, custom textures, and creative graphics for corporate media and presentation templates.
 
-  
+--------------------------------------------
 🛠 Technical Skills & Tools
 
 Software Development & AI Integration
